@@ -1,0 +1,6 @@
+[
+  { "id": 0, "place": "Australia", "message": "Hello" },
+  { "id": 1, "place": "Korea", "message": "Hi" },
+  { "id": 2, "place": "Philippines", "message": "Hoy" },
+  { "id": 3, "place": "China", "message": "Chooi" }
+]
